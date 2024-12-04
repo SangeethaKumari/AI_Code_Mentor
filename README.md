@@ -19,7 +19,7 @@
   Identify and avoid common mistakes in your code.
 
 - **Multi-Language Support:** 
-  Offers explanations in multiple spoken languages and supports a variety of programming languages.
+  Supports a variety of programming languages.
 
 ---
 
